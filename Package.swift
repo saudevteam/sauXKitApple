@@ -11,8 +11,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "SauXKit",
-      url: "https://github.com/saudevteam/sauXKitApple/releases/download/1.0.0/SauXKit.xcframework.zip",
-      checksum: "1a2611104d0ea47e076c848a7be324e561967dfe50bd3dc33b01d411c26da4bc"
+      url: "https://github.com/saudevteam/sauXKitApple/releases/download/1.0.1/SauXKit.xcframework.zip",
+      checksum: "ac8694ebfc7056b1d73c45ce1541108c57b05baf2380ea974269586d2d91556e"
     )
   ]
 )
